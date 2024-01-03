@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.b40ffa5d.css",
+    "main.js": "/reactproject/static/js/main.aa793ee2.js",
+    "static/js/787.c4df67fb.chunk.js": "/reactproject/static/js/787.c4df67fb.chunk.js",
+    "static/media/PhotoRoom-20231207_092616.png": "/reactproject/static/media/PhotoRoom-20231207_092616.4f489a51f64e8abcff51.png",
+    "index.html": "/reactproject/index.html",
+    "main.b40ffa5d.css.map": "/reactproject/static/css/main.b40ffa5d.css.map",
+    "main.aa793ee2.js.map": "/reactproject/static/js/main.aa793ee2.js.map",
+    "787.c4df67fb.chunk.js.map": "/reactproject/static/js/787.c4df67fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40ffa5d.css",
+    "static/js/main.aa793ee2.js"
+  ]
+}
